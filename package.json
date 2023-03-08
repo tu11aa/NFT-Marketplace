@@ -1,7 +1,7 @@
 {
   "name": "marketplace3",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://tu11aa.github.io/NFT-Marketplace",
   "dependencies": {
     "@openzeppelin/contracts": "^4.6.0",
